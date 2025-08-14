@@ -1,2 +1,8 @@
 # odin-recipes
-First project yaaaay. This is from the Foundations Course of The Odin Project. I'm doing HTML rn, which means this project will be very simple. Just a basic recipe website comprising a main index page with some links to recipes. Will be revisiting this when I'm doing CSS, so for now, I'm just demonstrating my knowledge of elements and tags; the HTML boilerplate; text-based elements, lists, links, and images; and proper commit messages.
+First project yaaay ٩(ˊᗜˋ*)و ♡
+
+This is from the Foundations Course of The Odin Project. I'm doing HTML rn, which means this project will be very simple. Just a basic recipe website comprising a main index page with some links to recipes. Will be revisiting this when I'm doing CSS, so for now, I'm just demonstrating my knowledge of...
+- Elements and tags;
+- The HTML boilerplate;
+- Text-based elements, lists, links, and images; and
+- Proper commit messages.
