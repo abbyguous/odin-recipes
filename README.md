@@ -11,3 +11,4 @@ All recipes and recipe images by me.
 
 Retro:
 - Scope creep is real, as they say.
+- After a 4-month hiatus, I've finally finished it. Commits were messy asf because I kept jumping around, thinking of things to change here and there. For example, I realized that real chimichurri doesn't actually use cilantro, so I had to change the metadata and URLs to reflect the recipe name change. All within the commit "Finish tofu," which purportedly contains only work on the recipe page itself. But anyway, this is just a simple HTML project. I'll probably get the hang of atomic commits as I learn to write more complex code.
