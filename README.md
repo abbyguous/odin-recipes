@@ -6,3 +6,8 @@ This is from the Foundations Course of The Odin Project. I'm doing HTML rn, whic
 - The HTML boilerplate;
 - Text-based elements, lists, links, and images; and
 - Proper commit messages.
+
+All recipes and recipe images by me.
+
+Retro:
+- Scope creep is real, as they say.
